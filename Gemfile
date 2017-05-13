@@ -15,6 +15,8 @@ gem 'sass-rails', '~> 5.0'
 gem 'turbolinks', '~> 5'
 gem 'uglifier', '>= 1.3.0'
 
+gem 'bootstrap-sass', '~> 3.3.6'
+
 group :development, :test do
   gem 'capybara', '~> 2.12'
   gem 'database_cleaner', '~> 1.5', '>= 1.5.3'
